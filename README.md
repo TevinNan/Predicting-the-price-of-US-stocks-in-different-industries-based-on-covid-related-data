@@ -1,0 +1,2 @@
+# Predicting-the-price-of-US-stocks-in-different-industries-based-on-covid-related-data
+We are trying to **predict the stock prices of different U.S. stocks in different industries** using **U.S. COVID-19 data** (including number of hospitalisations, number of ICU patients, number of patients on ventilators, increase in hospitalisations, increase in deaths, increase in positive test cases, and increase in negative test cases) and **determine whether or not we should buy the stock today and sell it tomorrow, or not**.
